@@ -1,5 +1,5 @@
-Class Hello{
+Class Emp{
 	public static void main(String args[]){
-		System.out.println("Hello Git!!!");
+		private Integer empno;
 	}
 }
