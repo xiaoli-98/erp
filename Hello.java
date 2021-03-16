@@ -4,5 +4,6 @@ Class Hello{
 
 		System.out.println("认真听讲的孩子!!!");
 		System.out.println("Hello everyone!!!");
+		System.out.println("明天要下雨了。。。");
 	}
 }
