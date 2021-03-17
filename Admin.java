@@ -1,5 +1,5 @@
 import java.util.list
 public Class Admin{
-	private List<Emp> emps;
-	private i
+	private String aid;
+	private String password;
 }
